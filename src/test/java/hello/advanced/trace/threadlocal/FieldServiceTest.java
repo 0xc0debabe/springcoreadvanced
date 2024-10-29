@@ -31,7 +31,6 @@ public class FieldServiceTest {
 
         sleep(3000);
         log.info("main exist");
-
      }
 
     private void sleep(int millis) {
